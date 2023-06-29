@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-#### Codewars <img src="https://www.codewars.com/users/komet4/badges/small">
+#### Codewars [![komet4](https://www.codewars.com/users/komet4/badges/small)](https://www.codewars.com/users/komet4)
 
